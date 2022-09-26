@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+body{
+    margin: 0;
+    padding-bottom: 3em;
+    background: url(7.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    position: relative;
+    min-height: 100vh;
+}
+div{
+        background-color: #00304d;
+}
+p{
+    color: rgb(255, 255, 255);
+    display: table-cell;
+    padding: 30px;
+}
+section{
+        background-color: aquamarine;
+}
+img{
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 340px;
+}
+
+li{
+    float: left;
+    list-style: none;
+    padding: 80px;
+}
+nav{
+    
+    float: right;
+    margin-top: 10px;
+    margin-right: 400px;
+      
+}
+
+a{
+    text-decoration: none;
+    font-family: fantasy;
+    color: darkblue;
+    
+    
+}
+li:hover a{
+        color: rgb(255, 255, 255);
+   
+}
+
+div{
+    margin-left: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+align-content: center;
+padding: 10;
+}
+
+
+
